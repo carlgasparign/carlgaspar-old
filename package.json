@@ -11,7 +11,7 @@
     "@contentful/rich-text-html-renderer": "^13.4.0",
     "babel-plugin-styled-components": "^1.10.6",
     "dotenv": "^8.1.0",
-    "gatsby": "^2.14.0",
+    "gatsby": "^2.32.13",
     "gatsby-image": "^2.2.14",
     "gatsby-plugin-feed": "^2.3.9",
     "gatsby-plugin-google-analytics": "^2.1.11",
